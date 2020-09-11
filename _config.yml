@@ -28,7 +28,7 @@ linkedin_username: rahulkeerthi
 github_username: rahulkeerthi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 # Exclude from processing.
