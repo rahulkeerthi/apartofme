@@ -22,8 +22,8 @@ title: Hi Apart of Me! I'd love to volunteer!
 email: rahulkeerthi2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My application for the volunteer web developer role at Apart of Me.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rahulkeerthi.github.io/apartofme" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/apartofme" # the subpath of your site, e.g. /blog
+url: "https://rahulkeerthi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: rahulkeerthi
 github_username: rahulkeerthi
 show_excerpts: true
