@@ -4,6 +4,7 @@ title: "Some Things I've Made"
 author: "Rahul Keerthi"
 date: 2020-09-11 20:55:02 +0100
 categories: intro portfolio
+excerpt: Here are some projects I'm particularly proud of - you can see a description of them, the website (if available) and the source code on GitHub. You can also see my resume to learn more about my story, and discover what kind of spaghetti I like.
 ---
 
 Here are some projects I'm particularly proud of - you can see a description of them, the website (if available) and the source code on GitHub.
