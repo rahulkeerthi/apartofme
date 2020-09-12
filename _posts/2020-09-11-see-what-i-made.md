@@ -9,7 +9,7 @@ excerpt: Here are some projects I'm particularly proud of - you can see a descri
 
 Here are some projects I'm particularly proud of - you can see a description of them, the website (if available) and the source code on GitHub.
 
-You can also see my resume [here](/assets/Rahul Keerthi Resume.pdf){:target="\_blank"} (opens in a new tab) to learn more about my story, and discover what kind of spaghetti I like.
+You can also see my resume [here](/apartofme/assets/Rahul Keerthi Resume.pdf){:target="\_blank"} (opens in a new tab) to learn more about my story, and discover what kind of spaghetti I like.
 
 ## Solo Projects
 
