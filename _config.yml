@@ -18,19 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: I'd love to volunteer!
+title: Hi Apart of Me! I'd love to volunteer!
 email: rahulkeerthi2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My application for the volunteer web developer role at Apart of Me.
-baseurl: "/apartofme" # the subpath of your site, e.g. /blog
-url: "https://rahulkeerthi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rahulkeerthi.github.io/apartofme" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: rahulkeerthi
 github_username: rahulkeerthi
-
+show_excerpts: true
+author:
+  name: Rahul Keerthi
+  email: rahulkeerthi2@gmail.com
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
+github: [metadata]
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
