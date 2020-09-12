@@ -1,0 +1,57 @@
+- title: Flashcodes
+  type: group
+  tagline: A Social Quiz Game for Coders
+  github: flashcodes.xyz
+  link: https://www.flashcodes.xyz
+  description: >-
+    As lead developer, built and [publicly presented](https://youtu.be/aWs0KA2AKZY) a quiz app that uses tribes and shared goals to help coders learn and practice concepts
+    Implemented and managed feature and defect tracking using a Kanban board (Trello), employed Continuous Deployment of features and used Agile principles to manage the flow of 3 other developers, such as daily stand-ups, testing and pair programming
+    Project was prototyped in Figma based on user stories in Whimsical, resulting in a user-driven, atomic approach to development of the app
+  stack: Rails 6, HTML5, CSS3/SCSS, ES6+, Postgres and Webpack, deployed to Heroku. Other tooling and libraries used include Cloudinary (Storage), Devise (Authentication), Bootstrap (Styling and Components), Simple Form (Forms), jQuery, APIs and SVGs with CSS Animation.
+
+- title: Cookit
+  type: solo
+  tagline: Home Cooked, Restaurant Quality
+  github: cookit-rails
+  link: https://www.trycookit.com
+  description: >-
+    Curated list of UK restaurant meal kits built on Rails following commercial practices around agile working, tracking, naming conventions, deployment, testing, etc.
+    Production database is maintained on Airtable and seeded via its API using a custom loader
+    Fully responsive components and layouts developed based on Figma designs and prototypes
+  stack: Rails 6, Ruby 2.7, HTML5, CSS3/SCSS (BEM), ES6+, Postgres, Elasticsearch, Webpack, AWS S3, deployed to Heroku. Other tooling and libraries used include Devise (Authentication), Custom Bootstrap Styles, Simple Form (Forms), Kaminari (Pagination), Sendgrid (Automated Emails), Ahoy (Tracking), APIs, and Flickity (Mobile-friendly Carousels)
+
+- title: WagSwag ChatBot
+  type: solo
+  tagline:
+  github: ruby-fbmessenger-chatbot
+  link: https://docs.google.com/presentation/d/1SkW3zH0wxCJIWxqiH32FBm6XDMOK3M8LJozlyaIRwh0/edit?usp=sharing
+  description: >-
+    A Facebook Messenger chatbot called WagSwag built in Ruby using the quasi-Rails Stealth framework. Presented at a Le Wagon Lightning Talk in 2020 and forms the basis of a 3-part article on [how to build your own FB Messenger bot](https://medium.com/@rahaluha/robots-in-disguise-intro-to-ruby-chatbots-with-stealth-part-1-57c33fa6163f).
+  stack: Stealth, Ruby, Redis, Facebook Messenger API
+
+- title: Dashboard
+  type: solo
+  tagline:
+  github: dashboard
+  link:
+  description: >-
+    Interactive dashboard built in React with Material UI, consuming a json database file (via json-server). Allows filtering, sorting and searching of childminders and the children they're responsible for, along with views for additional details on the minders, children and their guardians.
+  stack: React, React Router, Material UI, json-server, MomentJS, Axios, Prop-Types, SVG, CSS3/SCSS, HTML5, SweetAlert2
+
+- title: Garnish Drinks
+  type: solo
+  tagline:
+  link: https://garnishdrinks.herokuapp.com/
+  github: rails-garnish
+  description: >-
+    Fully-responsive MVC web app built in Rails to practice modern Rails patterns and HTML/CSS techniques.
+  stack: Rails 6, HTML5, CSS3/SCSS, APIs (CocktailDB), Devise (Authentication), Rails Admin
+
+- title: Lairbnb
+  type: group
+  tagline: Find Your Next Lair!
+  link: https://lairbnb-lewagon.herokuapp.com/
+  github: Lairbnb
+  description: >-
+    A light-hearted AirBnb clone created in one week as a group project during Le Wagon's 9-week Full Stack bootcamp. LairBnb is the sharing economy for superheroes and villains on the move. If you're in a new city and looking for a lair to rent or if you have a lair to rent out during your downtime then Lairbnb is the place for it.
+  stack: Rails 6, HTML5, CSS3/SCSS, Devise (Authentication), Rails Admin
